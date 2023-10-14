@@ -4,7 +4,7 @@
 
 ### Using Vite (v4.4.11) to create the React boilerplate
 
-The video uses CRA but at this current date (2023 oct) CRA is seen as deprecated and Vite is the recommended way to go.
+The Youtube video uses CRA but at this current date (2023 oct) CRA is seen as deprecated and Vite is the recommended way to go.
 Vite boilderplate also saves over 200MB of diskspace.
 Will skip the "semantic" stuff the main interested is on how to get the connection between the front-end (React)
 and back-end (Python).
