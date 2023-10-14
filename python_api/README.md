@@ -22,6 +22,6 @@ Steps
   - 'flask-sqlalchemy' (db)
   - 'flask-cors' (Cross Origin Resource Sharing)
     CORS was something that was new to this project, see https://flask-cors.readthedocs.io/en/latest/
-    Without it I was not able to fetch data from the python backend
+    without it I was not able to fetch data from the python backend
 - Use 'python run.py' to start the Flask application
   The first time the database is created
