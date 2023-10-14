@@ -15,3 +15,5 @@ Taken from Youtube
 
 - How to Call a Flask API in React
   https://www.youtube.com/watch?v=06pWsB_hoD4
+
+  Some minor changes was done
