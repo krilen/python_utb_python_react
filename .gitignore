@@ -26,3 +26,4 @@ dist-ssr
 # Python
 __pychache__
 Pipfile
+movie_db.sqlite
