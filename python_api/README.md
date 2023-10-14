@@ -9,7 +9,7 @@ A simple API with 2 routes
 - List the movies in the db ".../movies" using a GET method
 - Add a movie to the db ".../add_movie" using a POST method with the JSON body
   '{"title": "<insert_movie_title>", "rating": <insert_movie_rating>}'
-  ex: {"title": "Avengers", "rating": 4}
+  ex: '{"title": "Avengers", "rating": 4}'
 
 ---
 
