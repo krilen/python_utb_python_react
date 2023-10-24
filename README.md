@@ -20,10 +20,10 @@ Taken from Youtube
 
 ### Change log
 
-Version: v1
-""""""""""""""
-The basic version as described above. The main goal it just to get it working
+- Version "1"
 
-Version: 1.1
-""""""""""""""
-...
+  The basic version as described above. The main goal it just to get it working
+
+- Version "1.1"
+
+  ...
