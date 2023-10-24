@@ -17,3 +17,15 @@ Taken from Youtube
   https://www.youtube.com/watch?v=06pWsB_hoD4
 
   Some minor changes was done
+
+### Change log
+
+Version: v1
+
+---
+
+The basic version as described above. The main goal it just to get it working
+
+Version: 1.1
+
+---

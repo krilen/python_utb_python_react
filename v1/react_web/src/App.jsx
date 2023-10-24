@@ -36,7 +36,7 @@ function App() {
     // The RESPONSE from the API
     const data = await res.json()
 
-    // Making sure that the array is retrun and not the object
+    // Making sure that the array is return and not the object
     return data["movies"]
   }
 
