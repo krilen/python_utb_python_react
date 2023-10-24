@@ -20,7 +20,7 @@ Taken from Youtube
 
 ### Change log
 
-- Version "1"
+- Version "1.0"
 
   The basic version as described above. The main goal was just to get it working
 
