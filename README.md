@@ -22,7 +22,7 @@ Taken from Youtube
 
 - Version "1"
 
-  The basic version as described above. The main goal it just to get it working
+  The basic version as described above. The main goal was just to get it working
 
 - Version "1.1"
 
