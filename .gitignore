@@ -28,3 +28,4 @@ build
 __pychache__
 Pipfile
 movie_db.sqlite
+.venv
